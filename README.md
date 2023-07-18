@@ -4,4 +4,4 @@ In this project, I have used HTML, CSS and Javascript to create a webpage in whi
 To play the online drum kit, click on the drum item or press the key written on the icons.
 
 ## To Run
-To play the dice game, click on the following link : 
+To play the online drum kit, click on the following link : https://shubham-kumar-sahoo.github.io/Online-Drum-Player/
