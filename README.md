@@ -1,0 +1,2 @@
+# Online-Drum-Player
+In this project, I have used HTML, CSS and Javascript to create a webpage in which we can play with the drum kit by clicking on the drum kit or by pressing the keys on the keyboard.  
